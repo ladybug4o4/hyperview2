@@ -7,4 +7,7 @@ seaborn==0.13.2
 shap==0.49.1
 eotdl
 stac_geoparquet
-
+umap-learn=0.5.9
+boruta=0.4.3
+cubist==1.2.0
+pyriemann==0.10
